@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TheGolfClubCAT2</string>
+    <string name="hint_fname">Enter Firstname</string>
+    <string name="hint_lname">Enter Lastname</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="btn_reg">Register</string>
+    <string name="link_login">Already have an account?</string>
+    <string name="empty_details">Empty Details</string>
+    <string name="short_password">Password too short</string>
+    <string name="creating_account">Adding User</string>
+    <string name="signup_error">Error occured during Registration</string>
+    <string name="success_signup">Registration Success</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_link_reg">Don\'t have an Account?</string>
+    <string name="empty_fields">Yout input fields are empty</string>
+    <string name="success_login">Login Success</string>
+    <string name="wrong_credentials">Please check your login credentials</string>
+    <string name="logging_in">Checking credentials</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">Logout</string>
+</resources>
